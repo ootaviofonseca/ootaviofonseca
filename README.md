@@ -1,7 +1,7 @@
-## Olá eu sou Otávio Fonseca estudante de Ciência da Computação!
+## Olá eu sou Otávio Fonseca !
 <div align="center">
   <a href="https://github.com/ootaviofonseca">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ootaviofonseca&show_icons=true&theme=graywhite&include_all_commits=true&count_private=true"/>
+  
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ootaviofonseca&layout=compact&langs_count=7&theme=graywhite"/>
 </div><br>
 
