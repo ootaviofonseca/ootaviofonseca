@@ -1,8 +1,8 @@
 ## Olá eu sou Otávio Fonseca !
 <div align="center">
-  <a href="https://github.com/ootaviofonseca">
+   <!--<a href="https://github.com/ootaviofonseca">
   
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ootaviofonseca&layout=compact&langs_count=7&theme=graywhite"/>
+  <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ootaviofonseca&layout=compact&langs_count=7&theme=graywhite"/> !-->
 </div><br>
 
 <div style="display: inline_block " align="center"><br>
