@@ -16,7 +16,7 @@
 
 # 👋 Hello! I'm Otavio Fonseca
 
-![GitHub Banner](https://yourimageurl.com) 
+<!--![GitHub Banner]() -->
 
 I am a passionate **Software Developer** with a diverse skill set that spans multiple technologies and a strong focus on delivering high-quality, scalable applications. I love solving problems and creating impactful solutions that make a difference.
 
