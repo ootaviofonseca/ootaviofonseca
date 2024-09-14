@@ -51,11 +51,11 @@ Here's a snapshot of the technologies I work with:
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
-![Otavio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ootaviofonseca&show_icons=true&theme=graywhite)
+<!--![Otavio's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ootaviofonseca&show_icons=true&theme=graywhite) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ootaviofonseca&layout=compact&theme=graywhite)-->
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ootaviofonseca&layout=compact&theme=graywhite)
+
 
 ---
 
@@ -64,7 +64,8 @@ Here's a snapshot of the technologies I work with:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ootaviofonseca)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ootaviofonseca)
 
-Feel free to explore my repositories, contribute, or just say hello!
 
-![Profile Views](https://komarev.com/ghpvc/?username=ootaviofonseca&style=flat-square&color=blue)
+
+
+<!--![Profile Views](https://komarev.com/ghpvc/?username=ootaviofonseca&style=flat-square&color=blue)
 
